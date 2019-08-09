@@ -10,10 +10,10 @@ A basic website with some information about myself - where I'm from, what I like
 Setup/installation Requirements: 
 You will need a functional web browser, Terminal, and Atom all installed on the computer you're using.
 
-Navigate to https://github.com/LaurenMusante/Independent-1
+Navigate to https://github.com/LaurenMusante/portfolio
 Open Terminal, navigate to Desktop.
 
-$ git clone https://github.com/LaurenMusante/Independent-1.git
+$ git clone https://github.com/LaurenMusante/portfoliogit
 
 Open directory Independent-1
 
