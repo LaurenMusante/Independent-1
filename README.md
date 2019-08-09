@@ -11,9 +11,13 @@ Setup/installation Requirements:
 You will need a functional web browser, Terminal, and Atom all installed on the computer you're using.
 
 Navigate to https://github.com/LaurenMusante/Independent-1
-Open Terminal, navigate to Desktop
+Open Terminal, navigate to Desktop.
+
 $ git clone https://github.com/LaurenMusante/Independent-1.git
-$ cd Independent-1
+
+Open directory Independent-1
+
+Open "index.html" in browser. 
 
 Known Bugs: 
 No known bugs.
