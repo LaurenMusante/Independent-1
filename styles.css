@@ -1,0 +1,56 @@
+body {
+<<<<<<< HEAD
+  background-color: #f5b3d6;
+=======
+  background-color: #07e3a1;
+>>>>>>> teal-theme
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  font-family: georgia;
+  color: black;
+}
+
+h3 {
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+p {
+  font-family: georgia;
+}
+
+ol {
+  font-family: georgia;
+}
+
+.Image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+.Image2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.coding {
+  color: #8a0683;
+}
+
+.lilblurb {
+  text-align: center;
+  font-style: italic;
+  color: #8a0683;
+  font-size: 25px;
+}
+.bigger {
+  font-size: 20px;
+  font-weight: bold;
+}
