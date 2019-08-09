@@ -11,11 +11,12 @@ Setup/installation Requirements:
 You will need a functional web browser, Terminal, and Atom all installed on the computer you're using.
 
 Navigate to https://github.com/LaurenMusante/portfolio
+
 Open Terminal, navigate to Desktop.
 
 $ git clone https://github.com/LaurenMusante/portfolio.git
 
-Open directory Independent-1
+Open directory Independent-Project-1
 
 Open "index.html" in browser. 
 
