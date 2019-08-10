@@ -2,9 +2,7 @@
 
 This is my first Independent Project at Epicodus
 
-By: Lauren Musante!
-
-This is branch1.
+By: Lauren Musante
 
 Description:
 A basic website with some information about myself - where I'm from, what I like, and why I'm attending Epicodus.
