@@ -1,29 +1,32 @@
-# Independent-1
+# _Portfolio - About me_
 
-This is my first Independent Project at Epicodus
+#### _This is a simple webpage all about me, August 2019_
 
-By: Lauren Musante
+#### By _**Lauren Musante**_
 
-Description:
-A basic website with some information about myself - where I'm from, what I like, and why I'm attending Epicodus.
+## Description
 
-Setup/installation Requirements:
-You will need a function web browser in order to view this page.
+_This is a basic website that contains facts about me, Lauren Musante. It includes where I came from, my educational background a couple links to some of my coding work on GitHub, and lists some of my favorite foods. _
 
-Navigate to https://laurenmusante.github.io/portfolio/
+## Setup/Installation Requirements
 
-Known Bugs:
-No known bugs.
+_Open browser.
+Navigate to URL: https://laurenmusante.github.io/portfolio/_
 
-Support and Contact Details:
-If you run into any trouble with running this site, please email Lauren.Musante@gmail.com
+## Known Bugs
 
-Technologies used:
-HTML
-CSS
-Images
+_None_
 
-License:
-MIT
+## Support and contact details
 
-Copyright (c) 2019 {Lauren Musante}
+_If you have any issues opening the page, please contact Lauren.Musante@gmail.com_
+
+## Technologies Used
+
+_Bootstrap_
+
+### License
+
+*Licensed under the MIT license*
+
+Copyright (c) 2019 **_Lauren Musante_**
